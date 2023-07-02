@@ -1,4 +1,4 @@
-Hello! my name's Miguel
+## Hello! my name's Miguel
 
 - 📚 I'm studying HTML, CSS and JavaScript
 - 📚 Front-end Jr
